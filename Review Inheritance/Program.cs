@@ -14,6 +14,7 @@ namespace Practice
             Console.Write("Enter the EmployeeId:");
             Program program = new Program();
             program.AddEmployee(Employees);
+            Console.WriteLine();
            
 
         }
